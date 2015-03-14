@@ -1,2 +1,3 @@
 this learning python
-	print 'i like every bit of python to code with'
+print 'i like every bit of python to code with'
+i was a student in kenya
